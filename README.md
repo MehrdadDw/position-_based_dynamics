@@ -10,9 +10,12 @@ Basic PBD(position based dynamics) implementation using the SFML library in C++.
 - A C++ compiler (e.g., g++).
 - Make (for building the project).
 
-1. Build the simulation by running:
+0. prerequisites:
    ```bash
    sudo apt install libsfml-dev
+   ```
+1. Build the simulation by running:
+   ```bash
    make all
    ```
 2. Run the executable:
