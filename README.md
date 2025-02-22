@@ -1,8 +1,6 @@
 # Position-Based Dynamics Experiment
 Basic PBD(position based dynamics) implementation using the SFML library in C++.
 
-![Simulation Demo](simulation.gif)
-
 <div align="center">
   <img src="simulation.gif" alt="Simulation Demo" width="500">
 </div>
